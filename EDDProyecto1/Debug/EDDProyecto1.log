@@ -1,0 +1,7 @@
+﻿  ColaFicha.cpp
+C:\Users\gerso\source\repos\EDDProyecto1\EDDProyecto1\ColaFicha.h(3,10): warning C4067:  unexpected tokens following preprocessor directive - expected a newline
+C:\Users\gerso\source\repos\EDDProyecto1\EDDProyecto1\ColaFicha.cpp(2,10): warning C4067:  unexpected tokens following preprocessor directive - expected a newline
+C:\Users\gerso\source\repos\EDDProyecto1\EDDProyecto1\ColaFicha.cpp(3,10): warning C4067:  unexpected tokens following preprocessor directive - expected a newline
+C:\Users\gerso\source\repos\EDDProyecto1\EDDProyecto1\ColaFicha.cpp(4,10): warning C4067:  unexpected tokens following preprocessor directive - expected a newline
+C:\Users\gerso\source\repos\EDDProyecto1\EDDProyecto1\ColaFicha.cpp(56): warning C4715:  'ColaFicha::dequeue': not all control paths return a value
+  EDDProyecto1.vcxproj -> C:\Users\gerso\source\repos\EDDProyecto1\Debug\EDDProyecto1.exe
